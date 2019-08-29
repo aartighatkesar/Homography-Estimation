@@ -44,7 +44,7 @@ def get_pixel_coord(mask):
 def fit_image_in_target_space(img_src, img_dst, mask, H):
     """
 
-    :param img_src: source image
+    :param img_src: source imagevtgvgtgv
     :param img_dst: destination image
     :param mask: mask corresponding to dest image
     :param H: pts_in_src_img = H * pts_in_dst_img
