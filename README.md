@@ -9,7 +9,7 @@ _Source Image_
 <br/>
 _Target Image_
 <br/>
-<img src="https://github.com/aartighatkesar/Homography-Estimation/blob/master/input_imgs/1.jpg" alt="Pic_28.jpg" width="2167" height="1625" />
+<img src="https://github.com/aartighatkesar/Homography-Estimation/blob/master/input_imgs/1.jpg" alt="Pic_28.jpg" width="768" height="432" />
 
 ##### Output
 <img src="https://github.com/aartighatkesar/Homography-Estimation/blob/master/results/visualize_1.jpg" alt="Pic_28.jpg" width="768" height="432" />
